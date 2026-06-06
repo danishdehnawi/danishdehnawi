@@ -11,8 +11,17 @@
 <h2>📜 Certifications</h2>
 
 <ul>
-  <li>🛡️ CompTIA Security+</li>
-  <li>🌐 CompTIA Network+</li>
+  <li>
+    <a href="https://www.credly.com/earner/earned/badge/66730a2f-5bd8-4801-9f63-b688261a41da" target="_blank">
+      🛡️ CompTIA Security+
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.credly.com/earner/earned/badge/4a53010d-ea1d-4dac-8f46-2f2718309207" target="_blank">
+      🌐 CompTIA Network+
+    </a>
+  </li>
 </ul>
 
 <h2>👨‍💻 Projects</h2>
@@ -52,9 +61,13 @@
 <h2>🤳 Connect with Me</h2>
 
 <p>
-<a href="https://www.linkedin.com/in/danish-dehnawi-4300ab3a7/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/danish-dehnawi-4300ab3a7/" target="_blank">
+💼 LinkedIn
+</a>
 </p>
 
 <p>
-<a href="https://github.com/danishdehnawi" target="_blank">GitHub</a>
+<a href="https://github.com/danishdehnawi" target="_blank">
+💻 GitHub
+</a>
 </p>
