@@ -1,4 +1,3 @@
-```html
 <h1>👋 Hi, I'm Danish!</h1>
 
 <h2>📜 Certifications</h2>
@@ -17,7 +16,7 @@
   </li>
 </ul>
 
-<h2>👨‍💻 Projects</h2>
+<h2>👨💻 Projects</h2>
 
 <ul>
 
@@ -71,4 +70,3 @@
 💼 LinkedIn
 </a>
 </p>
-```
